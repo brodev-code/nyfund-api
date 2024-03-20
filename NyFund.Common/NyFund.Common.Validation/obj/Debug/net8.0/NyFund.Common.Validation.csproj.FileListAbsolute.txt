@@ -1,0 +1,5 @@
+C:\GitRepo\NyFundApi\NyFund.Common\NyFund.Common.Validation\obj\Debug\net8.0\NyFund.Common.Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitRepo\NyFundApi\NyFund.Common\NyFund.Common.Validation\obj\Debug\net8.0\NyFund.Common.Validation.AssemblyInfoInputs.cache
+C:\GitRepo\NyFundApi\NyFund.Common\NyFund.Common.Validation\obj\Debug\net8.0\NyFund.Common.Validation.AssemblyInfo.cs
+C:\GitRepo\NyFundApi\NyFund.Common\NyFund.Common.Validation\obj\Debug\net8.0\NyFund.Common.Validation.csproj.CoreCompileInputs.cache
+C:\GitRepo\NyFundApi\NyFund.Common\NyFund.Common.Validation\obj\Debug\net8.0\NyFund.Common.Validation.sourcelink.json

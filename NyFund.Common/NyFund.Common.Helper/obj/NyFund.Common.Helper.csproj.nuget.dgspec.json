@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GitRepo\\NyFundApi\\NyFund.Common\\NyFund.Common.Helper\\NyFund.Common.Helper.csproj": {}
+  },
+  "projects": {
+    "C:\\GitRepo\\NyFundApi\\NyFund.Common\\NyFund.Common.Dto\\NyFund.Common.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitRepo\\NyFundApi\\NyFund.Common\\NyFund.Common.Dto\\NyFund.Common.Dto.csproj",
+        "projectName": "NyFund.Common.Dto",
+        "projectPath": "C:\\GitRepo\\NyFundApi\\NyFund.Common\\NyFund.Common.Dto\\NyFund.Common.Dto.csproj",
+        "packagesPath": "C:\\Users\\ibrahim.demir\\.nuget\\packages\\",
+        "outputPath": "C:\\GitRepo\\NyFundApi\\NyFund.Common\\NyFund.Common.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ibrahim.demir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/aguA7qVmMrTKDwQYHZDuslFu96GdJGrT6xKUfBvVfJDUlaHxfj/api": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\GitRepo\\NyFundApi\\NyFund.Core\\NyFund.Core.Framework\\NyFund.Core.Framework.csproj": {
+                "projectPath": "C:\\GitRepo\\NyFundApi\\NyFund.Core\\NyFund.Core.Framework\\NyFund.Core.Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GitRepo\\NyFundApi\\NyFund.Common\\NyFund.Common.Helper\\NyFund.Common.Helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitRepo\\NyFundApi\\NyFund.Common\\NyFund.Common.Helper\\NyFund.Common.Helper.csproj",
+        "projectName": "NyFund.Common.Helper",
+        "projectPath": "C:\\GitRepo\\NyFundApi\\NyFund.Common\\NyFund.Common.Helper\\NyFund.Common.Helper.csproj",
+        "packagesPath": "C:\\Users\\ibrahim.demir\\.nuget\\packages\\",
+        "outputPath": "C:\\GitRepo\\NyFundApi\\NyFund.Common\\NyFund.Common.Helper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ibrahim.demir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/aguA7qVmMrTKDwQYHZDuslFu96GdJGrT6xKUfBvVfJDUlaHxfj/api": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\GitRepo\\NyFundApi\\NyFund.Common\\NyFund.Common.Dto\\NyFund.Common.Dto.csproj": {
+                "projectPath": "C:\\GitRepo\\NyFundApi\\NyFund.Common\\NyFund.Common.Dto\\NyFund.Common.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GitRepo\\NyFundApi\\NyFund.Core\\NyFund.Core.Framework\\NyFund.Core.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitRepo\\NyFundApi\\NyFund.Core\\NyFund.Core.Framework\\NyFund.Core.Framework.csproj",
+        "projectName": "NyFund.Core.Framework",
+        "projectPath": "C:\\GitRepo\\NyFundApi\\NyFund.Core\\NyFund.Core.Framework\\NyFund.Core.Framework.csproj",
+        "packagesPath": "C:\\Users\\ibrahim.demir\\.nuget\\packages\\",
+        "outputPath": "C:\\GitRepo\\NyFundApi\\NyFund.Core\\NyFund.Core.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ibrahim.demir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/aguA7qVmMrTKDwQYHZDuslFu96GdJGrT6xKUfBvVfJDUlaHxfj/api": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Acidic.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "EntityFrameworkCore.Data.QueryBuilder": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

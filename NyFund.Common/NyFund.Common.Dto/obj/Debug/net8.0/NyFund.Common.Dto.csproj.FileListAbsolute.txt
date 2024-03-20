@@ -1,0 +1,16 @@
+C:\GitRepo\NyFundApi\NyFund.Common\NyFund.Common.Dto\obj\Debug\net8.0\NyFund.Common.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitRepo\NyFundApi\NyFund.Common\NyFund.Common.Dto\obj\Debug\net8.0\NyFund.Common.Dto.AssemblyInfoInputs.cache
+C:\GitRepo\NyFundApi\NyFund.Common\NyFund.Common.Dto\obj\Debug\net8.0\NyFund.Common.Dto.AssemblyInfo.cs
+C:\GitRepo\NyFundApi\NyFund.Common\NyFund.Common.Dto\obj\Debug\net8.0\NyFund.Common.Dto.csproj.CoreCompileInputs.cache
+C:\GitRepo\NyFundApi\NyFund.Common\NyFund.Common.Dto\obj\Debug\net8.0\NyFund.Common.Dto.sourcelink.json
+C:\GitRepo\NyFundApi\NyFund.Common\NyFund.Common.Dto\bin\Debug\net8.0\NyFund.Common.Dto.deps.json
+C:\GitRepo\NyFundApi\NyFund.Common\NyFund.Common.Dto\bin\Debug\net8.0\NyFund.Common.Dto.dll
+C:\GitRepo\NyFundApi\NyFund.Common\NyFund.Common.Dto\bin\Debug\net8.0\NyFund.Common.Dto.pdb
+C:\GitRepo\NyFundApi\NyFund.Common\NyFund.Common.Dto\bin\Debug\net8.0\NyFund.Core.Framework.dll
+C:\GitRepo\NyFundApi\NyFund.Common\NyFund.Common.Dto\bin\Debug\net8.0\NyFund.Core.Framework.pdb
+C:\GitRepo\NyFundApi\NyFund.Common\NyFund.Common.Dto\obj\Debug\net8.0\NyFund.Common.Dto.csproj.AssemblyReference.cache
+C:\GitRepo\NyFundApi\NyFund.Common\NyFund.Common.Dto\obj\Debug\net8.0\NyFund.Common.Dto.csproj.CopyComplete
+C:\GitRepo\NyFundApi\NyFund.Common\NyFund.Common.Dto\obj\Debug\net8.0\NyFund.Common.Dto.dll
+C:\GitRepo\NyFundApi\NyFund.Common\NyFund.Common.Dto\obj\Debug\net8.0\refint\NyFund.Common.Dto.dll
+C:\GitRepo\NyFundApi\NyFund.Common\NyFund.Common.Dto\obj\Debug\net8.0\NyFund.Common.Dto.pdb
+C:\GitRepo\NyFundApi\NyFund.Common\NyFund.Common.Dto\obj\Debug\net8.0\ref\NyFund.Common.Dto.dll

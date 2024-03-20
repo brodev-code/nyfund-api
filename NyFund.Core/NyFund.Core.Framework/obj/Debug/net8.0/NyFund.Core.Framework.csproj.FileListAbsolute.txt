@@ -1,0 +1,13 @@
+C:\GitRepo\NyFundApi\NyFund.Core\NyFund.Core.Framework\obj\Debug\net8.0\NyFund.Core.Framework.csproj.AssemblyReference.cache
+C:\GitRepo\NyFundApi\NyFund.Core\NyFund.Core.Framework\obj\Debug\net8.0\NyFund.Core.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitRepo\NyFundApi\NyFund.Core\NyFund.Core.Framework\obj\Debug\net8.0\NyFund.Core.Framework.AssemblyInfoInputs.cache
+C:\GitRepo\NyFundApi\NyFund.Core\NyFund.Core.Framework\obj\Debug\net8.0\NyFund.Core.Framework.AssemblyInfo.cs
+C:\GitRepo\NyFundApi\NyFund.Core\NyFund.Core.Framework\obj\Debug\net8.0\NyFund.Core.Framework.csproj.CoreCompileInputs.cache
+C:\GitRepo\NyFundApi\NyFund.Core\NyFund.Core.Framework\obj\Debug\net8.0\NyFund.Core.Framework.sourcelink.json
+C:\GitRepo\NyFundApi\NyFund.Core\NyFund.Core.Framework\bin\Debug\net8.0\NyFund.Core.Framework.deps.json
+C:\GitRepo\NyFundApi\NyFund.Core\NyFund.Core.Framework\bin\Debug\net8.0\NyFund.Core.Framework.dll
+C:\GitRepo\NyFundApi\NyFund.Core\NyFund.Core.Framework\bin\Debug\net8.0\NyFund.Core.Framework.pdb
+C:\GitRepo\NyFundApi\NyFund.Core\NyFund.Core.Framework\obj\Debug\net8.0\NyFund.Core.Framework.dll
+C:\GitRepo\NyFundApi\NyFund.Core\NyFund.Core.Framework\obj\Debug\net8.0\refint\NyFund.Core.Framework.dll
+C:\GitRepo\NyFundApi\NyFund.Core\NyFund.Core.Framework\obj\Debug\net8.0\NyFund.Core.Framework.pdb
+C:\GitRepo\NyFundApi\NyFund.Core\NyFund.Core.Framework\obj\Debug\net8.0\ref\NyFund.Core.Framework.dll
