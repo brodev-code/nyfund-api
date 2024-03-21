@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NyFund.Common.Validation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83275c5e0bc5d26b8b6eb5284cfa6fb458b930ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("NyFund.Common.Validation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NyFund.Common.Validation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

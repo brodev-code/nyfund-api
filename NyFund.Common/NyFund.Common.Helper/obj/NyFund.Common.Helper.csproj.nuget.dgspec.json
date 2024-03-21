@@ -25,6 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://dgnuget.dgpays.local:7000/nuget": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://nuget.devexpress.com/aguA7qVmMrTKDwQYHZDuslFu96GdJGrT6xKUfBvVfJDUlaHxfj/api": {}
         },
@@ -88,6 +89,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://dgnuget.dgpays.local:7000/nuget": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://nuget.devexpress.com/aguA7qVmMrTKDwQYHZDuslFu96GdJGrT6xKUfBvVfJDUlaHxfj/api": {}
         },
@@ -157,6 +159,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://dgnuget.dgpays.local:7000/nuget": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://nuget.devexpress.com/aguA7qVmMrTKDwQYHZDuslFu96GdJGrT6xKUfBvVfJDUlaHxfj/api": {}
         },

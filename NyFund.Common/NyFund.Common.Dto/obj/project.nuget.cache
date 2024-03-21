@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7ZKTUJxw3dxt8+lX25bTRf/NzWpSsKEE8agpaSJs5p/2ZsuGoUudtB9ZdrCVihl94J/haTrFUf9LcqGy3Gwr6w==",
+  "dgSpecHash": "WYm1HBM5a5Bai+qcLaGxXc7hEWxMxFxMvgSpto2cd6EPntveStvuREjOdmN6XjbeE2G1Et3DaWawbGS+Mdhwhg==",
   "success": true,
   "projectFilePath": "C:\\GitRepo\\NyFundApi\\NyFund.Common\\NyFund.Common.Dto\\NyFund.Common.Dto.csproj",
   "expectedPackageFiles": [
@@ -25,5 +25,12 @@
     "C:\\Users\\ibrahim.demir\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\ibrahim.demir\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://dgnuget.dgpays.local:7000/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

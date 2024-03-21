@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "K4rKZV9JdaoTAKamjb5nEOuj+ymhmN7uIFpEnbBt09IpxogzWfRg89Ig4fxk37ZEGYbQ3E7qwGNdPhmpOWhHwg==",
+  "dgSpecHash": "q9+I6Jjqd5V6agzMbHdwd+AcD2/K0826An7zAzwTyW7ag0cNDWrJBHaaQkexSMJ/wna7qEOI472jdmGCb2q9PA==",
   "success": true,
   "projectFilePath": "C:\\GitRepo\\NyFundApi\\NyFund.Api\\NyFund.Api.Panel\\NyFund.Api.Panel.csproj",
   "expectedPackageFiles": [
@@ -11,5 +11,12 @@
     "C:\\Users\\ibrahim.demir\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
     "C:\\Users\\ibrahim.demir\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://dgnuget.dgpays.local:7000/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }
