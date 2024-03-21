@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NyFund.Test.ConsoleApp", "N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NyFund.Core.Repository", "NyFund.Core\NyFund.Core.Repository\NyFund.Core.Repository.csproj", "{E36DB670-3B2A-43C2-9807-82BADFBDB4EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NyFund.Core.Service", "NyFund.Core\NyFund.Core.Service\NyFund.Core.Service.csproj", "{DA216E99-6833-4567-81D6-67E3001EFC7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{E36DB670-3B2A-43C2-9807-82BADFBDB4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E36DB670-3B2A-43C2-9807-82BADFBDB4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E36DB670-3B2A-43C2-9807-82BADFBDB4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA216E99-6833-4567-81D6-67E3001EFC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA216E99-6833-4567-81D6-67E3001EFC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA216E99-6833-4567-81D6-67E3001EFC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA216E99-6833-4567-81D6-67E3001EFC7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -89,6 +95,7 @@ Global
 		{61F62222-4755-4172-B4AA-2EECF81AB74B} = {71D5E5A5-6E7B-45DE-A246-CB1EADD71217}
 		{9EE7689C-8347-40E1-8A89-581A290887ED} = {6337079D-DFB8-4F5E-B899-82004933256A}
 		{E36DB670-3B2A-43C2-9807-82BADFBDB4EF} = {0B34E15F-E137-46BC-9BC1-2A51006B5B75}
+		{DA216E99-6833-4567-81D6-67E3001EFC7D} = {0B34E15F-E137-46BC-9BC1-2A51006B5B75}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3B3CBAFE-BDDE-4DB0-9261-5C22B99E0D64}

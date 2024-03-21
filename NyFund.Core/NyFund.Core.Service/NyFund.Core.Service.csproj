@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="7.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\NyFund.Common\NyFund.Common.Dto\NyFund.Common.Dto.csproj" />
+    <ProjectReference Include="..\..\NyFund.Data\NyFund.Data.Entity\NyFund.Data.Entity.csproj" />
+    <ProjectReference Include="..\NyFund.Core.Framework\NyFund.Core.Framework.csproj" />
+    <ProjectReference Include="..\NyFund.Core.Repository\NyFund.Core.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
