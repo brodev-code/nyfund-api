@@ -1,16 +1,18 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Diagnostics.CodeAnalysis;
 using NyFund.Data.Entity.Model;
+using NyFund.Data.DataAccessLayer.Database;
 
 namespace NyFund.Data.Entity.Database
 {
     public class NyFundDbContext : DbContextBase
     {
-        public IzaCodeDbContext([NotNull] DbContextOptions<IzaCodeDbContext> options) : base(options)
+        public NyFundDbContext([NotNull] DbContextOptions<NyFundDbContext> options) : base(options)
         {
             this.ChangeTracker.QueryTrackingBehavior = QueryTrackingBehavior.NoTracking;
         }
-        protected IzaCodeDbContext()
+
+        protected NyFundDbContext()
         { }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -24,8 +26,6 @@ namespace NyFund.Data.Entity.Database
             {
                 entity.HasKey(e => e.Id);
 
-                entity.Property(e => e.Id).HasDefaultValueSql("(newid())");
-
                 entity.Property(e => e.CreateDate)
                     .HasColumnType("datetime")
                     .HasDefaultValueSql("(getdate())");
@@ -33,9 +33,17 @@ namespace NyFund.Data.Entity.Database
                 entity.Property(e => e.UpdateDate).HasColumnType("datetime");
 
                 entity.Property(e => e.DeleteDate).HasColumnType("datetime");
+
+                entity.Property(e => e.BirthDate).HasColumnType("datetime");
+
+                entity.Property(e => e.OtpActiveDate).HasColumnType("datetime");
+
+                entity.Property(e => e.LastLoginDate).HasColumnType("datetime");
+
+                entity.Property(e => e.BanEndDate).HasColumnType("datetime");
             });
         }
 
-        public virtual DbSet<Employee> Employees { get; set; }
+        public virtual DbSet<Customer> Customers { get; set; }
     }
 }

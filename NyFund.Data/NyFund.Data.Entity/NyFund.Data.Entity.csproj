@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\NyFund.Core\NyFund.Core.Framework\NyFund.Core.Framework.csproj" />
+    <ProjectReference Include="..\NyFund.Data.DataAccessLayer\NyFund.Data.DataAccessLayer.csproj" />
   </ItemGroup>
 
 </Project>

@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NyFund.Data.Entity", "NyFun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NyFund.Data.DataAccessLayer", "NyFund.Data\NyFund.Data.DataAccessLayer\NyFund.Data.DataAccessLayer.csproj", "{61F62222-4755-4172-B4AA-2EECF81AB74B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NyFund.Test.ConsoleApp", "NyFund.Test\NyFund.Test.ConsoleApp\NyFund.Test.ConsoleApp.csproj", "{9EE7689C-8347-40E1-8A89-581A290887ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{61F62222-4755-4172-B4AA-2EECF81AB74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61F62222-4755-4172-B4AA-2EECF81AB74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61F62222-4755-4172-B4AA-2EECF81AB74B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE7689C-8347-40E1-8A89-581A290887ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE7689C-8347-40E1-8A89-581A290887ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE7689C-8347-40E1-8A89-581A290887ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE7689C-8347-40E1-8A89-581A290887ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -75,6 +81,7 @@ Global
 		{EA220043-648A-4DA9-914D-9CFDB06C6A4A} = {5F7FD854-9352-4366-A0D8-E894683F2050}
 		{4BC2D387-F657-4357-B501-08EC244A18A1} = {71D5E5A5-6E7B-45DE-A246-CB1EADD71217}
 		{61F62222-4755-4172-B4AA-2EECF81AB74B} = {71D5E5A5-6E7B-45DE-A246-CB1EADD71217}
+		{9EE7689C-8347-40E1-8A89-581A290887ED} = {6337079D-DFB8-4F5E-B899-82004933256A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3B3CBAFE-BDDE-4DB0-9261-5C22B99E0D64}
