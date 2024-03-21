@@ -403,3 +403,26 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio
+/NyFund.Api/NyFund.Api.Panel/bin/Debug/net8.0/NyFund.Api.Panel.deps.json
+/NyFund.Api/NyFund.Api.Panel/bin/Debug/net8.0/NyFund.Api.Panel.dll
+/NyFund.Api/NyFund.Api.Panel/bin/Debug/net8.0/NyFund.Api.Panel.exe
+/NyFund.Api/NyFund.Api.Panel/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/NyFund.Api/NyFund.Api.Panel/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/NyFund.Api/NyFund.Api.Panel/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/NyFund.Api/NyFund.Api.Panel/bin/Debug/net8.0/NyFund.Api.Panel.pdb
+/.vs/NyFund/v17/.suo
+/NyFund.Api/NyFund.Api.Panel/obj/Debug/net8.0/ref/NyFund.Api.Panel.dll
+/NyFund.Api/NyFund.Api.Panel/obj/Debug/net8.0/refint/NyFund.Api.Panel.dll
+/NyFund.Api/NyFund.Api.Panel/obj/Debug/net8.0/apphost.exe
+/NyFund.Api/NyFund.Api.Panel/obj/Debug/net8.0/NyFund.Api.Panel.AssemblyInfoInputs.cache
+/NyFund.Api/NyFund.Api.Panel/obj/Debug/net8.0/NyFund.Api.Panel.AssemblyInfo.cs
+/NyFund.Api/NyFund.Api.Panel/obj/Debug/net8.0/NyFund.Api.Panel.assets.cache
+/NyFund.Api/NyFund.Api.Panel/obj/Debug/net8.0/NyFund.Api.Panel.csproj.AssemblyReference.cache
+/NyFund.Api/NyFund.Api.Panel/obj/Debug/net8.0/NyFund.Api.Panel.csproj.CoreCompileInputs.cache
+/NyFund.Api/NyFund.Api.Panel/obj/Debug/net8.0/NyFund.Api.Panel.dll
+/NyFund.Api/NyFund.Api.Panel/obj/Debug/net8.0/NyFund.Api.Panel.pdb
+/NyFund.Api/NyFund.Api.Panel/obj/Debug/net8.0/NyFund.Api.Panel.sourcelink.json
+/NyFund.Api/NyFund.Api.Panel/obj/NyFund.Api.Panel.csproj.nuget.dgspec.json
+/NyFund.Api/NyFund.Api.Panel/obj/NyFund.Api.Panel.csproj.nuget.g.props
+/NyFund.Api/NyFund.Api.Panel/obj/project.assets.json
+/NyFund.Api/NyFund.Api.Panel/obj/project.nuget.cache
