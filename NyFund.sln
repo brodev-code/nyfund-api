@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NyFund.Core.Repository", "N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NyFund.Core.Service", "NyFund.Core\NyFund.Core.Service\NyFund.Core.Service.csproj", "{DA216E99-6833-4567-81D6-67E3001EFC7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NyFund.Common.Mapper", "NyFund.Common.Mapper\NyFund.Common.Mapper.csproj", "{2965B3D3-3431-4F40-8B6C-67772E2F0C22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{DA216E99-6833-4567-81D6-67E3001EFC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA216E99-6833-4567-81D6-67E3001EFC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA216E99-6833-4567-81D6-67E3001EFC7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2965B3D3-3431-4F40-8B6C-67772E2F0C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2965B3D3-3431-4F40-8B6C-67772E2F0C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2965B3D3-3431-4F40-8B6C-67772E2F0C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2965B3D3-3431-4F40-8B6C-67772E2F0C22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -96,6 +102,7 @@ Global
 		{9EE7689C-8347-40E1-8A89-581A290887ED} = {6337079D-DFB8-4F5E-B899-82004933256A}
 		{E36DB670-3B2A-43C2-9807-82BADFBDB4EF} = {0B34E15F-E137-46BC-9BC1-2A51006B5B75}
 		{DA216E99-6833-4567-81D6-67E3001EFC7D} = {0B34E15F-E137-46BC-9BC1-2A51006B5B75}
+		{2965B3D3-3431-4F40-8B6C-67772E2F0C22} = {5F7FD854-9352-4366-A0D8-E894683F2050}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3B3CBAFE-BDDE-4DB0-9261-5C22B99E0D64}

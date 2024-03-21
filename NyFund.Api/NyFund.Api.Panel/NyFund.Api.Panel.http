@@ -1,6 +1,0 @@
-@NyFund.Api.Panel_HostAddress = http://localhost:5289
-
-GET {{NyFund.Api.Panel_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

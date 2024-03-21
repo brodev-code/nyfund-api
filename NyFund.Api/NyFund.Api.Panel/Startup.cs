@@ -1,9 +1,11 @@
 ﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using NyFund.Common.Mapper.IoC;
 using NyFund.Core.Framework.IoC;
 using NyFund.Core.Framework.Settings;
 using NyFund.Core.Repository.IoC;
+using NyFund.Core.Service.IoC;
 using NyFund.Data.DataAccessLayer.IoC;
 using NyFund.Data.Entity.Database;
 using System.Text;
@@ -30,8 +32,9 @@ namespace NyFund.Api.Panel
             services.AddDatabaseContext<NyFundDbContext>("NyFundDbSettings", Configuration);
             services.AddRedis();
             services.AddScopedRepository();
-            /*services.AddScopedService();
-            services.AddScopedValidation();
+            services.AddScopedService();
+            services.AddScopedMapper();
+            /*services.AddScopedValidation();
             services.AddScopedJob();
             services.AddScopedEmailSender();
             services.AddScopedNvi();
