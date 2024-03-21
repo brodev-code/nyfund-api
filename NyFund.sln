@@ -15,17 +15,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NyFund.Common", "NyFund.Com
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NyFund.Test", "NyFund.Test", "{6337079D-DFB8-4F5E-B899-82004933256A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NyFund.Api.Panel", "NyFund.Api\NyFund.Api.Panel\NyFund.Api.Panel.csproj", "{96DAD310-CFED-4E66-A104-1CEBE6A67845}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NyFund.Api.Panel", "NyFund.Api\NyFund.Api.Panel\NyFund.Api.Panel.csproj", "{96DAD310-CFED-4E66-A104-1CEBE6A67845}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NyFund.Core.Framework", "NyFund.Core\NyFund.Core.Framework\NyFund.Core.Framework.csproj", "{0790C051-48A1-4442-ADAB-DEAD3768D0D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NyFund.Core.Framework", "NyFund.Core\NyFund.Core.Framework\NyFund.Core.Framework.csproj", "{0790C051-48A1-4442-ADAB-DEAD3768D0D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NyFund.Common.Validation", "NyFund.Common\NyFund.Common.Validation\NyFund.Common.Validation.csproj", "{0C103942-6788-49AC-9149-0428E1B5CF18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NyFund.Common.Middleware", "NyFund.Common\NyFund.Common.Middleware\NyFund.Common.Middleware.csproj", "{4AABA840-C750-417F-8882-32F32A9163AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NyFund.Common.Middleware", "NyFund.Common\NyFund.Common.Middleware\NyFund.Common.Middleware.csproj", "{4AABA840-C750-417F-8882-32F32A9163AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NyFund.Common.Helper", "NyFund.Common\NyFund.Common.Helper\NyFund.Common.Helper.csproj", "{9A68708F-EBB2-4554-8DE0-D45249A1CA4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NyFund.Common.Helper", "NyFund.Common\NyFund.Common.Helper\NyFund.Common.Helper.csproj", "{9A68708F-EBB2-4554-8DE0-D45249A1CA4F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NyFund.Common.Dto", "NyFund.Common\NyFund.Common.Dto\NyFund.Common.Dto.csproj", "{EA220043-648A-4DA9-914D-9CFDB06C6A4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NyFund.Common.Dto", "NyFund.Common\NyFund.Common.Dto\NyFund.Common.Dto.csproj", "{EA220043-648A-4DA9-914D-9CFDB06C6A4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +39,6 @@ Global
 		{0790C051-48A1-4442-ADAB-DEAD3768D0D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0790C051-48A1-4442-ADAB-DEAD3768D0D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0790C051-48A1-4442-ADAB-DEAD3768D0D1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0C103942-6788-49AC-9149-0428E1B5CF18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0C103942-6788-49AC-9149-0428E1B5CF18}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0C103942-6788-49AC-9149-0428E1B5CF18}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0C103942-6788-49AC-9149-0428E1B5CF18}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4AABA840-C750-417F-8882-32F32A9163AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4AABA840-C750-417F-8882-32F32A9163AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AABA840-C750-417F-8882-32F32A9163AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -64,7 +58,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{96DAD310-CFED-4E66-A104-1CEBE6A67845} = {2CB8F874-4A55-4F36-BC69-9F99ED425F04}
 		{0790C051-48A1-4442-ADAB-DEAD3768D0D1} = {0B34E15F-E137-46BC-9BC1-2A51006B5B75}
-		{0C103942-6788-49AC-9149-0428E1B5CF18} = {5F7FD854-9352-4366-A0D8-E894683F2050}
 		{4AABA840-C750-417F-8882-32F32A9163AD} = {5F7FD854-9352-4366-A0D8-E894683F2050}
 		{9A68708F-EBB2-4554-8DE0-D45249A1CA4F} = {5F7FD854-9352-4366-A0D8-E894683F2050}
 		{EA220043-648A-4DA9-914D-9CFDB06C6A4A} = {5F7FD854-9352-4366-A0D8-E894683F2050}
